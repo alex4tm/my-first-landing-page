@@ -1,0 +1,17 @@
+.banner {
+  background-image: url(images/background.png);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner p {
+  color: lightgrey;
+  margin-bottom: 40px;
+  opacity: .7;
+  font-size: 20px;
+}
+
+.banner h1 {
+  color: white;
+}
